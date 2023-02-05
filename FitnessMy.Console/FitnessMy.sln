@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessMy.Console", "FitnessMy.Console\FitnessMy.Console.csproj", "{1C022F0D-AAF1-4A68-BDDF-FFC4061B8670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessMy", "FitnessMy\FitnessMy.csproj", "{14A5B66E-F079-4841-8AC1-8D838DAAA016}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C022F0D-AAF1-4A68-BDDF-FFC4061B8670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C022F0D-AAF1-4A68-BDDF-FFC4061B8670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C022F0D-AAF1-4A68-BDDF-FFC4061B8670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C022F0D-AAF1-4A68-BDDF-FFC4061B8670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A5B66E-F079-4841-8AC1-8D838DAAA016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A5B66E-F079-4841-8AC1-8D838DAAA016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A5B66E-F079-4841-8AC1-8D838DAAA016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A5B66E-F079-4841-8AC1-8D838DAAA016}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
